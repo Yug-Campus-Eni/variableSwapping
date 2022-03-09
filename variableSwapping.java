@@ -31,3 +31,4 @@ public class variableSwapping {
 	} // FIN MAIN
 
 }// FIN CLASS 
+// PROBLEME NON RESOLU.
